@@ -14,7 +14,8 @@ Abstract
 
 
   
-## Running software instructions
+Running software instructions
+---------------
 <p> Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process.
 
  
@@ -22,7 +23,8 @@ Abstract
 <p> https://observablehq.com/embed/f5b0523e074ae883?cell=*
 
   
-## Breakdown of work
+Breakdown of work
+  ---------------
 <p> The breakdown of work was split fairly evenly. Since our team only has two members, the best way we could attack this project is by splitting up the work as best as possible. For example, Jonathan did the visualizations for energy production and fossil fuel emissions and the introduction of the observable notebook, the entire report, and half of the video. Helena did the visualizations for agricultural activity and deforestation and the conclusion of the observable notebook, the readme.md file, set up the GitHub items, and the other half of the video. Having only two members, it was a lot to juggle but we did the best that we could.
 
   
