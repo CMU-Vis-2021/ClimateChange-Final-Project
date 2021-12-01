@@ -8,6 +8,10 @@ Team Members: Helena Spencer and Jonathan Nottingham
   
 <p>Link to report
 
+
+  https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov
+
+
   
 ## Running software instructions
 <p> Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process.
