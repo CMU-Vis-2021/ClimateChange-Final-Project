@@ -10,10 +10,6 @@ Link to report
 
 <h2>Video</h2>
 <div style="padding: 56.25% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/61a7ec3046e0fb0001c98f7b" frameborder="0" allow="autoplay; fullscreen" scrolling="no"></iframe></div></div>
-<!-- <video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/CMU-Vis-2021/ClimateChange-Final-Project/blob/main/Project_WalkThrough_420p.mov">
-</video> -->
-<!-- https://user-images.githubusercontent.com/78493922/144316980-2eceb850-8df4-4f60-ae8b-cde556249e99.mov -->
 
 
 
@@ -31,4 +27,4 @@ Loading our project is super easy! Just click on the Observable notebook link be
 
   
 <h2>Project process</h2>
-<p> The first step we took for this project was identifying the factors we wanted to include in our narrative and any other viewpoints of climate change. We originally had are energy production, agricultural activity, deforestation, industrial activity, Earth’s own feedback loop, and variations in the Sun’s intensity. We also had actions that various countries are taking in order to reduce the effects of global warming data points. We determined for the scope of this project we would reduce the number of factors to only energy production, agricultural activity, and deforestation and got rid of other countries' actions since we have a smaller team. After reducing our attributes, we then began creating visualizations for each of the factors. This took a significant amount of time since we kept running into errors in our code and having to format our datasets to function correctly. Once we finished our visualizations, we added commentary on each of the visualizations, an introduction and a conclusion, and then organized our notebook so that it was clean looking and professional. We finished our project by writing the report, creating the readme.md file, linking the GitHub pages, and filming our presentation video.
+<p> The first step we took for this project was identifying the factors we wanted to include in our narrative and any other viewpoints of climate change. The factors we originally had are energy production, agricultural activity, deforestation, industrial activity, Earth’s own feedback loop, and variations in the Sun’s intensity. We also had actions that various countries are taking in order to reduce the effects of global warming data points. We determined for the scope of this project we would reduce the number of factors to only energy production, agricultural activity, and deforestation and got rid of other countries' actions since we have a smaller team. After reducing our attributes, we then began creating visualizations for each of the factors. This took a significant amount of time since we kept running into errors in our code and having to format our datasets to function correctly. Once we finished our visualizations, we added commentary on each of the visualizations, an introduction and a conclusion, and then organized our notebook so that it was clean looking and professional. We finished our project by writing the report, creating the readme.md file, linking the GitHub pages, and filming our presentation video.
