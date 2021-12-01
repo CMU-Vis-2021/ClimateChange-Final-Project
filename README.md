@@ -4,23 +4,25 @@ Team Members: Helena Spencer and Jonathan Nottingham
 
   
 Abstract
----------------
+  ---------------
 <p> Global warming has become a prevelant issue in society over the past couple years and is heading in a direction that will eventually be deemed irreverisble. Although there are many factors that can be attributed to this worldwide phenomenon, we chose to observe three main components: energy production, agricultural activity, and deforestation. Energy production has shown to increase globally over the past couple decades leading to more fossil fuel emissions and an increase in greenhouse gases. Agricultural activity consisting of crop production and meat consumption also has an increasing trend over the past decades of which both release gases such as methane, carbon dioxide (CO2), and nitrous oxide into the atmoshpere, contributing to climate change. Deforestation, although has recently slowed down, is still at a rate that is impacting global warming since there are not enough trees to significantly clean the air of these greenhouse gases being produced. Through our visualizations, it becomes very obvious that these factors are influencing the current trajectory of our climate and are leading our world to a point of environmental destruction.
   
-<p>Link to report
+Link to report
 
-
+Video
+  ---------------
   https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov
 
 
   
 Running software instructions
----------------
-<p> Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process.
+  ---------------
+Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process.
 
  
-## Link for Observable Notebook (add when done)
-<p> https://observablehq.com/embed/f5b0523e074ae883?cell=*
+Link for Observable Notebook
+  ---------------
+https://observablehq.com/embed/f5b0523e074ae883?cell=*
 
   
 Breakdown of work
