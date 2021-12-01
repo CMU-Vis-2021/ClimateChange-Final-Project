@@ -10,8 +10,10 @@ Link to report
 
 <h2>Video</h2>
 
-
-https://user-images.githubusercontent.com/78493922/144316980-2eceb850-8df4-4f60-ae8b-cde556249e99.mov
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/CMU-Vis-2021/ClimateChange-Final-Project/blob/main/Project_WalkThrough_420p.mov">
+</video>
+<!-- https://user-images.githubusercontent.com/78493922/144316980-2eceb850-8df4-4f60-ae8b-cde556249e99.mov -->
 
 
 
