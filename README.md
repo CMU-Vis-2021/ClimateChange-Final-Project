@@ -18,7 +18,7 @@ Loading our project is super easy! Just click on the Observable notebook link be
 
  
 <h2>Link for Observable Notebook</h2>
-<a href="url">https://observablehq.com/embed/f5b0523e074ae883?cell=*</a>
+<a href="url">observablehq.com/embed/f5b0523e074ae883?cell=*</a>
 
   
 <h2>Breakdown of work</h2>
