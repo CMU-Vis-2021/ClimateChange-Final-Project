@@ -8,11 +8,12 @@ Team Members: Helena Spencer and Jonathan Nottingham
   
 Link to report
 
-<h2>Video</h2>
+<h2>Walkthrough Video</h2>
 <div style="padding: 56.25% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/61a7ec3046e0fb0001c98f7b" frameborder="0" allow="autoplay; fullscreen" scrolling="no"></iframe></div></div>
 
-
-
+<h2>Presentation</h2>
+<div style="padding: 62.50% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/61a7eef246e0fb0001c9ae43" frameborder="0" allow="autoplay; fullscreen" scrolling="no"></iframe></div></div>
+  
   
 <h2>Running software instructions</h2>
 Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process.
