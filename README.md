@@ -9,11 +9,11 @@ Team Members: Helena Spencer and Jonathan Nottingham
 Link to report
 
 <h2>Video</h2>
-<a href="https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov">Walkthrough Video Link</a>
-<!-- <video width="600" height="420" controls>
-  <source src="https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov" type="video/mov">
-</video>
- -->
+
+
+https://user-images.githubusercontent.com/78493922/144316980-2eceb850-8df4-4f60-ae8b-cde556249e99.mov
+
+
 
   
 <h2>Running software instructions</h2>
