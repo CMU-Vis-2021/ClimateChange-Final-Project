@@ -18,7 +18,7 @@ Loading our project is super easy! Just click on the Observable notebook link be
 
  
 <h2>Link for Observable Notebook</h2>
-https://observablehq.com/@hspencer10/final-project-climate-change
+<a href="https://observablehq.com/embed/@hspencer10/final-project-climate-change?cell=*"></a>
 
   
 <h2>Breakdown of work</h2>
