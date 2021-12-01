@@ -1,6 +1,6 @@
 # Climate Change
 Team Members: Helena Spencer and Jonathan Nottingham
-<p><img width="1098" alt="Screen Shot 2021-11-30 at 11 18 14 PM" src="https://user-images.githubusercontent.com/78493922/144171036-816ab919-8b72-474d-8e0c-8fadd2dd4adf.png">
+<p><img width="1098" alt="Screen Shot 2021-11-30 at 11 18 14 PM" src="https://user-images.githubusercontent.com/78493922/144171036-816ab919-8b72-474d-8e0c-8fadd2dd4adf.png"></p>
 
   
 <h2>Abstract</h2>
