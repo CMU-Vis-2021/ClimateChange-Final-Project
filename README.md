@@ -9,7 +9,7 @@ Team Members: Helena Spencer and Jonathan Nottingham
 Link to report
 
 <h2>Video</h2>
-<video src=https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov></video>
+<video src=https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov controls="controls" style="max-width: 730px;"></video>
 
 
   
