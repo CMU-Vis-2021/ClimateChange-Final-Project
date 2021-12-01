@@ -7,7 +7,6 @@ Team Members: Helena Spencer and Jonathan Nottingham
 <p> Global warming has become a prevelant issue in society over the past couple years and is heading in a direction that will eventually be deemed irreverisble. Although there are many factors that can be attributed to this worldwide phenomenon, we chose to observe three main components: energy production, agricultural activity, and deforestation. Energy production has shown to increase globally over the past couple decades leading to more fossil fuel emissions and an increase in greenhouse gases. Agricultural activity consisting of crop production and meat consumption also has an increasing trend over the past decades of which both release gases such as methane, carbon dioxide (CO2), and nitrous oxide into the atmoshpere, contributing to climate change. Deforestation, although has recently slowed down, is still at a rate that is impacting global warming since there are not enough trees to significantly clean the air of these greenhouse gases being produced. Through our visualizations, it becomes very obvious that these factors are influencing the current trajectory of our climate and are leading our world to a point of environmental destruction.
   
 <p>Link to report
-<p>Video
 
   
 ## Running software instructions
