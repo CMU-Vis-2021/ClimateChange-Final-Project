@@ -9,7 +9,7 @@ Team Members: Helena Spencer and Jonathan Nottingham
 Link to report
 
 <h2>Video</h2>
-<a href="url">https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov</a>
+https://user-images.githubusercontent.com/78493922/144311115-6f86a3ee-a7c9-4a8e-a9a1-edc15640daff.mov
 
 
   
@@ -18,7 +18,7 @@ Loading our project is super easy! Just click on the Observable notebook link be
 
  
 <h2>Link for Observable Notebook</h2>
-https://observablehq.com/embed/f5b0523e074ae883?cell=*
+<a href="url">https://observablehq.com/embed/f5b0523e074ae883?cell=*</a>
 
   
 <h2>Breakdown of work</h2>
