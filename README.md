@@ -17,7 +17,7 @@ Team Members: Helena Spencer and Jonathan Nottingham
   
   
 <h2>Running software instructions</h2>
-Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process.
+Loading our project is super easy! Just click on the Observable notebook link below and then explore our narrative track project. A tip for our animated visualizations is to reload the page and then scroll to the visualization to see the change overtime if it is not already in the animation process. It is important to note that we were unable to make our visualizations accessible, besides the sliders for the years, due to not having enough time and assistance with the project since there were only two of us that had to complete all the various elements the project required.
 
  
 <h2>Link for Observable Notebook</h2>
